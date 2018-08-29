@@ -62,6 +62,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
 ## Extra: Tools
 
 [SourceTree](https://www.sourcetreeapp.com/)
+[IntellijIDEA](http://www.jetbrains.com/idea/)
 
 ## Notes:
 
