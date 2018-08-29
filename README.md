@@ -44,7 +44,7 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-Commiting
+Commiting:
 
 ```
 $ git add <FILE>
@@ -52,7 +52,7 @@ $ git commit -m "Updated README.MD"
 $ git push
 ```
 
-Pulling
+Pulling:
 ```
 $ git fetch
 $ git status
@@ -65,6 +65,24 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
 
 [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+3. Gradle
+
+Gradle is an open-source build automation tool focused on flexibility and performance. Gradle build scripts are written using a Groovy or Kotlin DSL. Read about Gradle features to learn what is possible with Gradle.
+
+- [Official Docs](https://gradle.org/)
+
+4. Java 8 + Spring Boot
+
+- Hello World
+- First, thing, first: Project Lombok
+- I'm a Microservice
+- I'm a Rest Webservice
+- I'm a Cloud Ready
+
+5. JUnit + BDD + TDD
+
+- I should be testable
+- I should be trustable
 
 ## Extra: Tools
 
